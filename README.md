@@ -10,7 +10,7 @@ Created a virtual environment using **pipenv install** then started it using **p
 -----------
 
 In main.py file I imported **sqlite3** and **pandas**
-Then connected the py file to the db file and implemented table operations
+Then connected the py file to the db file and implemented table operations to get all tasks, a single task and get all incomplete tasks.
 Finally, I closed the cursor and the connection
 
 -----------
